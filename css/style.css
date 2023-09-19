@@ -1,4 +1,4 @@
-﻿*{
+*{
     scroll-behavior: smooth;
 }
 
@@ -163,6 +163,7 @@ a, a:hover {
 
 .unslate_co--site-nav .container {
   position: relative;
+  
 }
 
 .unslate_co--site-nav .site-logo {
