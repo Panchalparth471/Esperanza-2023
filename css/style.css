@@ -693,8 +693,10 @@ a, a:hover {
 .cover-v1 {
   background-size: cover;
   background-position: center;
-  position: fixed;
+ position:absolute;
   width: 100%;
+
+    z-index:100;
 }
 
 .cover-v1.gradient-bottom-black {
