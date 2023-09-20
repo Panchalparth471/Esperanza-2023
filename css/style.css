@@ -47,7 +47,7 @@ body, .unslate_co--site-inner {
 }
 
 ::selection {
-  background: #000;
+  background: #000000;
   color: #fff;
 }
 
@@ -848,8 +848,7 @@ a, a:hover {
   margin: 6px auto;
   border-radius: 4px;
   background: #fff;
-  -webkit-animation: finger 2s infinite;
-  animation: finger 2s infinite;
+
 }
 
 @-webkit-keyframes intro {
@@ -878,16 +877,7 @@ a, a:hover {
   }
 }
 
-@-webkit-keyframes finger {
-  0% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-    -webkit-transform: translateY(20px);
-    transform: translateY(20px);
-  }
-}
+
 
 @keyframes finger {
   0% {
