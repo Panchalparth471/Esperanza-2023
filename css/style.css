@@ -696,7 +696,7 @@ a, a:hover {
  position:absolute;
   width: 100%;
 
-    z-index:100;
+    z-index:-10;
 }
 
 .cover-v1.gradient-bottom-black {
