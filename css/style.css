@@ -693,6 +693,7 @@ a, a:hover {
 .cover-v1 {
   background-size: cover;
   background-position: center;
+  position: fixed;
   width: 100%;
 }
 
