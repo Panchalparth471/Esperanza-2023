@@ -187,7 +187,7 @@ a, a:hover {
 
 .unslate_co--site-nav .unslate_co--site-logo {
   font-size: 1.7rem;
-  color:white;
+  color: #fff;
   font-weight: 700;
 }
 
@@ -213,9 +213,8 @@ a, a:hover {
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
   padding: 10px 7px;
   display: block;
-  font:bolder;
-  color: white;
-  font-size: 16px;
+  color: #fff;
+  font-size: 14px;
   position: relative;
 }
 
@@ -234,7 +233,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover {
-  color:white;
+  color: #fff;
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover:before {
@@ -246,7 +245,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a.active:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a.active:before {
-  color:white;
+  color: #fff;
   width: calc(100% - 14px);
 }
 
@@ -378,7 +377,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li.active > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.active > a:before {
-  color:white;
+  color: #fff;
   width: calc(100% - 40px);
 }
 
