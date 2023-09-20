@@ -692,8 +692,7 @@ a, a:hover {
 
 .cover-v1 {
   background-size: cover;
-  background-position: center center;
-  background-repeat: repeat;
+  background-position: center;
   width: 100%;
 }
 
