@@ -2112,12 +2112,7 @@ span.error {
   }
 }
 
-#sicons:hover{
-  transition: ease-in-out;
-  color: red;
-  transition-duration: .5s;
-  cursor: pointer;
-}
+
 
 #sponsorsimg{
   width: 300px;
