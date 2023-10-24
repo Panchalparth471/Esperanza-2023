@@ -2113,7 +2113,6 @@ span.error {
 }
 
 
-
 #sponsorsimg{
   width: 300px;
 }
@@ -2122,10 +2121,17 @@ span.error {
    #sponsorsimg{
     width: 500px;
    }
-     .video{
-    height: 550px;
+
+   .video{
+    height: 500px;
+   }
+
+   .section-heading-wrap{
+    margin-bottom: 3rem;
    }
 }
+
+
 
 
 
